@@ -1,0 +1,86 @@
+.elementor-27157 .elementor-element.elementor-element-088a14d{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--align-items:stretch;--gap:10px 10px;--row-gap:10px;--column-gap:10px;}.elementor-27157 .elementor-element.elementor-element-2319bd4{--display:flex;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-27157 .elementor-element.elementor-element-cc5d8d3{width:100%;max-width:100%;text-align:center;}.elementor-27157 .elementor-element.elementor-element-cc5d8d3 .elementor-heading-title{font-family:"Poppins", Sans-serif;font-size:23px;font-weight:700;line-height:1.4em;color:#FFFFFF;}.elementor-27157 .elementor-element.elementor-element-3c38104{width:100%;max-width:100%;}.elementor-27157 .elementor-element.elementor-element-3c38104 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-27157 .elementor-element.elementor-element-84c20e3{width:100%;max-width:100%;text-align:justify;}.elementor-27157 .elementor-element.elementor-element-84c20e3 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-27157 .elementor-element.elementor-element-84c20e3 .elementor-heading-title{font-family:"Neue Grotesk", Sans-serif;font-size:13px;font-weight:300;line-height:20px;color:#FFFFFF;}#elementor-popup-modal-27157 .dialog-widget-content{background-color:#141414;border-radius:30px 30px 30px 30px;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}#elementor-popup-modal-27157{background-color:rgba(0,0,0,.8);justify-content:center;align-items:center;pointer-events:all;}#elementor-popup-modal-27157 .dialog-message{width:640px;height:auto;padding:60px 60px 70px 60px;}#elementor-popup-modal-27157 .dialog-close-button{display:flex;}#elementor-popup-modal-27157 .dialog-close-button i{color:#FF0000;}#elementor-popup-modal-27157 .dialog-close-button svg{fill:#FF0000;}@media(max-width:767px){.elementor-27157 .elementor-element.elementor-element-cc5d8d3{text-align:center;}.elementor-27157 .elementor-element.elementor-element-cc5d8d3 .elementor-heading-title{font-size:6.6vw;}.elementor-27157 .elementor-element.elementor-element-3c38104 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-27157 .elementor-element.elementor-element-84c20e3 > .elementor-widget-container{margin:0px 0px 5px 0px;}.elementor-27157 .elementor-element.elementor-element-84c20e3 .elementor-heading-title{font-size:12px;line-height:14px;}#elementor-popup-modal-27157 .dialog-message{width:90vw;padding:40px 20px 40px 20px;}#elementor-popup-modal-27157 .dialog-widget-content{border-radius:15px 15px 15px 15px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('../fonts/Poppins-Regular.eot');
+	src: url('../fonts/Poppins-Regular.eot#iefix') format('embedded-opentype'),
+		url('../fonts/Poppins-Regular.woff2') format('woff2'),
+		url('../fonts/Poppins-Regular.woff') format('woff'),
+		url('../fonts/Poppins-Regular.ttf') format('truetype'),
+		url('../images/Poppins-Regular.svg#Poppins') format('svg');
+}
+@font-face {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: url('../fonts/Poppins-SemiBold.eot');
+	src: url('../fonts/Poppins-SemiBold.eot#iefix') format('embedded-opentype'),
+		url('../fonts/Poppins-SemiBold.woff2') format('woff2'),
+		url('../fonts/Poppins-SemiBold.woff') format('woff'),
+		url('../fonts/Poppins-SemiBold.ttf') format('truetype'),
+		url('../images/Poppins-SemiBold.svg#Poppins') format('svg');
+}
+@font-face {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url('../fonts/Poppins-Bold.eot');
+	src: url('../fonts/Poppins-Bold.eot#iefix') format('embedded-opentype'),
+		url('../fonts/Poppins-Bold.woff2') format('woff2'),
+		url('../fonts/Poppins-Bold.woff') format('woff'),
+		url('../fonts/Poppins-Bold.ttf') format('truetype'),
+		url('../images/Poppins-Bold.svg#Poppins') format('svg');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Neue Grotesk';
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: url('../fonts/NeueHaasDisplay-Light.eot');
+	src: url('../fonts/NeueHaasDisplay-Light.eot#iefix') format('embedded-opentype'),
+		url('../fonts/NeueHaasDisplay-Light.woff2') format('woff2'),
+		url('../fonts/NeueHaasDisplay-Light.woff') format('woff'),
+		url('../fonts/NeueHaasDisplay-Light.ttf') format('truetype'),
+		url('../images/NeueHaasDisplay-Light.svg#NeueGrotesk') format('svg');
+}
+@font-face {
+	font-family: 'Neue Grotesk';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('../fonts/NeueHaasDisplay-Roman.eot');
+	src: url('../fonts/NeueHaasDisplay-Roman.eot#iefix') format('embedded-opentype'),
+		url('../fonts/NeueHaasDisplay-Roman.woff2') format('woff2'),
+		url('../fonts/NeueHaasDisplay-Roman.woff') format('woff'),
+		url('../fonts/NeueHaasDisplay-Roman.ttf') format('truetype'),
+		url('../images/NeueHaasDisplay-Roman.svg#NeueGrotesk') format('svg');
+}
+@font-face {
+	font-family: 'Neue Grotesk';
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url('../fonts/NeueHaasDisplay-Mediu.eot');
+	src: url('../fonts/NeueHaasDisplay-Mediu.eot#iefix') format('embedded-opentype'),
+		url('../fonts/NeueHaasDisplay-Mediu.woff2') format('woff2'),
+		url('../fonts/NeueHaasDisplay-Mediu.woff') format('woff'),
+		url('../fonts/NeueHaasDisplay-Mediu.ttf') format('truetype'),
+		url('../images/NeueHaasDisplay-Mediu.svg#NeueGrotesk') format('svg');
+}
+@font-face {
+	font-family: 'Neue Grotesk';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url('../fonts/NeueHaasDisplay-Bold.eot');
+	src: url('../fonts/NeueHaasDisplay-Bold.eot#iefix') format('embedded-opentype'),
+		url('../fonts/NeueHaasDisplay-Bold.woff2') format('woff2'),
+		url('../fonts/NeueHaasDisplay-Bold.woff') format('woff'),
+		url('../fonts/NeueHaasDisplay-Bold.ttf') format('truetype'),
+		url('../images/NeueHaasDisplay-Bold.svg#NeueGrotesk') format('svg');
+}
+/* End Custom Fonts CSS */
